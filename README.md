@@ -1,7 +1,7 @@
 # Text_Editor-using-Python
 # Installation
 Inastall Python.
-#Run
+# Run
 python3 FileName.py
 
 #Screen Shorts
