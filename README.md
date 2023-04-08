@@ -1,4 +1,9 @@
 # Text_Editor-using-Python
+# Installation
+Inastall Python.
+#Run
+python3 FileName.py
+
 #Screen Shorts
 ![Screenshot (506)](https://user-images.githubusercontent.com/93989396/219452788-0bf6465a-d05a-496e-bd56-aecb6ec186cd.png)
 ![Screenshot (507)](https://user-images.githubusercontent.com/93989396/219452796-65d4e240-e15b-4f46-9bd9-06331b0fd89d.png)
